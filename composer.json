@@ -1,0 +1,14 @@
+{
+    "name": "dferlian/demo",
+    "description": "composer test",
+    "type": "product",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gg",
+            "email": "716286571@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
